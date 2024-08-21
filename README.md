@@ -8,7 +8,8 @@ This project explores the impact of Twitter sentiment and socio-demographic fact
 - `GeoDa Files`: Includes spatial analysis files that detail the socio-demographic data and spatial statistics.
 - `Research Paper`: A comprehensive document describing the methodology, data collection, analysis, and conclusions of the study.
 
-- **Abstract**: The study examines the influence of social media alongside traditional socio-demographic and economic factors on the state-wise election outcomes, particularly in the context of the COVID-19 pandemic.
+## Abstract
+The study examines the influence of social media alongside traditional socio-demographic and economic factors on the state-wise election outcomes, particularly in the context of the COVID-19 pandemic.
 
 ## Methodology
 - **Data Collection**: Utilizes the `US Election 2020 Tweets` dataset from Kaggle and socio-demographic data from U.S. Census Bureau and Department of Labor.
